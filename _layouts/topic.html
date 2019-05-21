@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="vpad--xl bg--dark">
+  <div class="container">
+    <div class="width width--xl text--center text--xxl">
+      <p>{{page.intro}}</p>
+    </div>
+  </div>
+</div>
+
+<div class="vpad--xxl">
+  <div class="container">
+    <div class="row row--6-6 row--gutters-xl">
+      {% for poi in page.pois %}
+        <div class="col">
+          <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/img.jpg');"></div>
+          <div class="space--sm"></div>
+          <h3 class="title title--md">{{poi.title}}</h3>
+          <p class="text--xl">{{poi.description}}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

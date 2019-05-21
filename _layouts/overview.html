@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="vpad--xl bg--dark">
+  <div class="container">
+    <div class="width width--xl text--center text--xxl">
+      <p>{{site.description}}</p>
+    </div>
+  </div>
+</div>
+
+<div class="container vpad--xl">
+  {% assign topic-pages = site.html_pages | where: 'layout', 'topic' %}
+  {% for page in topic-pages %}
+    <div class="bob{% cycle '', ' bob--swap' %}">
+      <div class="bob__img">
+        <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/img.jpg');">
+          <a href="{{page.url}}" class="bg-img__link"></a>
+        </div>
+      </div>
+      <div class="bob__text">
+        <h2 class="title title--xl">{{page.title}}</h2>
+        <p class="text--xl">{{page.intro}}</p>
+        <div class="space--sm"></div>
+        <a href="{{page.url}}" class="btn btn--red">Discover more</a>
+      </div>
+    </div>
+  {% endfor %}
+</div>
