@@ -3,9 +3,11 @@
 .title {
   // custom content headline
   font-family: $font-title-01;
+  @include font-smoothing;
   font-weight: 700;
   font-style: italic;
-  line-height: 1.2;
+  line-height: 1.1;
+  // &--xxxxl  { font-size: $s9; }
   &--xxxl   { font-size: $s8; }
   &--xxl    { font-size: $s7; }
   &--xl     { font-size: $s6; }
@@ -16,6 +18,7 @@
   &--xxs    { font-size: $s1; }
   &--xxxs   { font-size: $s0; }
   @include bp($lg){
+    // &--xxxxl  { font-size: $s10; }
     &--xxxl   { font-size: $s9; }
     &--xxl    { font-size: $s8; }
     &--xl     { font-size: $s7; }
@@ -31,14 +34,16 @@
 .sub-title {
   // custom content headline
   font-family: $font-title-01;
-  font-weight: 700;
+  @include font-smoothing;
+  font-weight: 400;
+  line-height: 1.45;
   font-size: $s2; // default size
   &--lg     { font-size: $s4; }
   &--sm     { font-size: $s0; }
   @include bp($lg){
-    font-size: $s3; // default size
+    font-size: $s4; // default size
     &--lg     { font-size: $s5; }
-    &--sm     { font-size: $s1; }
+    &--sm     { font-size: $s3; }
   }
 }
 
@@ -73,8 +78,17 @@
 .banner-title {
   // custom banner headline
   font-family: $font-title-01;
+  line-height: 1;
+  @include font-smoothing;
   font-weight: 700;
-  font-size: $s10;
-  @include bp($md){ font-size: $s11; }
-  @include bp($xl){ font-size: $s13; }
+  font-size: $s9;
+  &--overview { font-size: $s10; }
+  @include bp($md){
+    font-size: $s10;
+    &--overview { font-size: $s11; }
+  }
+  @include bp($xl){
+    font-size: $s11;
+    &--overview { font-size: $s13; }
+  }
 }
