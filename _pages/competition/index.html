@@ -15,36 +15,33 @@ features:
     description: From raising the flag on your own private island and sailing a boat to your cottage, to watching the stars over the sea from your hot tub, Boutique Retreats specialise in unique, stylish properties that celebrate their surrounds whilst embracing luxurious living.
   - id: royce-barn
     title: About Royce Barn
-    description: Tucked away near the wonderful Welsh town of Monmouth and bordering the Rolls family estate, this stunning 17th century barn conversion for six lucky people and up to two dogs comes complete with a hot tub, natural swimming pool, Shepherd's Hut and sauna. With breathtaking views over the Welsh hills and with beautiful gardens, it’s a wonderful retreat for a holiday.    
+    description: Tucked away near the wonderful Welsh town of Monmouth and bordering the Rolls family estate, this stunning 17th century barn conversion for six lucky people and up to two dogs comes complete with a hot tub, natural swimming pool, Shepherd's Hut and sauna. With breathtaking views over the Welsh hills and with beautiful gardens, it’s a wonderful retreat for a holiday.
 
 competition-form:
   id: comp
   post-url: "#getFormUrl"
   expiry-date: 2050-01-01
   fields:
-    - id: name
+    - id: first-name
       type: text
-      label: Name
+      label: First Name
+      required: true
+    - id: surname
+      type: text
+      label: Surname
       required: true
     - id: email
       type: email
-      label: Email
+      label: Email address
       required: true
-    - id: qualify
-      type: radio
-      label: Are you a UK resident and over the age of 18?
+    - id: postcode
+      type: text
+      label: Postcode
       required: true
-      options:
-        - id: qualify-true
-          label: 'Yes'
-          value: 'yes'
-        - id: qualify-false
-          label: 'No'
-          value: 'no'
-          invalid: true
     - id: opt-in
       type: radio
       label: Would you like to receive emails from Visit Wales?
+      description: "If you agree, your information will be shared with Visit Wales and will be used in accordance with their <a href=\"https://www.visitwales.com/privacy-statement#CTMnewsletter\" class=\"link--underlined\">Newsletter Privacy notice</a>."
       required: true
       options:
         - id: opt-in-true

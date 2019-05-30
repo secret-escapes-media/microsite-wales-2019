@@ -28,6 +28,12 @@ var competitionForm = (function functionName() { // IIFE to control scope of for
     }
     // submit form function
     form.element.submit(function(e){
+      // get the current date and convert into "YYYY-MM-DD HH:MM" format
+      var now = new Date();
+      var timestamp = now.getFullYear() + "-" + ("0"+(now.getMonth()+1)).slice(-2) + "-" + ("0" + now.getDate()).slice(-2) + " " + ("0" + now.getHours()).slice(-2) + ":" + ("0" + now.getMinutes()).slice(-2);
+      // add timestamp for entry to hidden input
+      $('.js-form-entry-time').val(timestamp);
+      // check if data is valid
       if (formValidation(form).isValid()) {
         formFunctions(form).submissionInProgress();
       } else {
