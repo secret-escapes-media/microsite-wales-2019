@@ -11,7 +11,7 @@ enter-cta: Enter Now
 
 features:
   - id: boutique-retreats
-    title: About Boutique retreats
+    title: About Boutique Retreats
     description: From raising the flag on your own private island and sailing a boat to your cottage, to watching the stars over the sea from your hot tub, Boutique Retreats specialise in unique, stylish properties that celebrate their surrounds whilst embracing luxurious living.
   - id: royce-barn
     title: About Royce Barn
@@ -38,16 +38,27 @@ competition-form:
       type: text
       label: Postcode
       required: true
-    - id: opt-in
+    - id: wales-opt-in
       type: radio
       label: Would you like to receive emails from Visit Wales?
       description: "If you agree, your information will be shared with Visit Wales and will be used in accordance with their <a href=\"https://www.visitwales.com/privacy-statement#CTMnewsletter\" class=\"link--underlined\">Newsletter Privacy notice</a>."
       required: true
       options:
-        - id: opt-in-true
+        - id: wales-opt-in-true
           label: 'Yes'
           value: 'yes'
-        - id: opt-in-false
+        - id: wales-opt-in-false
+          label: 'No'
+          value: 'no'
+    - id: boutique-opt-in
+      type: radio
+      label: Would you like to receive emails from Boutique Retreats?
+      required: true
+      options:
+        - id: boutique-opt-in-true
+          label: 'Yes'
+          value: 'yes'
+        - id: boutique-opt-in-false
           label: 'No'
           value: 'no'
   submit: Submit Entry
