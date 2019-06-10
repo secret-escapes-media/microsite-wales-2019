@@ -7,7 +7,6 @@
   font-weight: 700;
   font-style: italic;
   line-height: 1.1;
-  // &--xxxxl  { font-size: $s9; }
   &--xxxl   { font-size: $s8; }
   &--xxl    { font-size: $s7; }
   &--xl     { font-size: $s6; }
@@ -18,7 +17,6 @@
   &--xxs    { font-size: $s1; }
   &--xxxs   { font-size: $s0; }
   @include bp($lg){
-    // &--xxxxl  { font-size: $s10; }
     &--xxxl   { font-size: $s9; }
     &--xxl    { font-size: $s8; }
     &--xl     { font-size: $s7; }
@@ -28,6 +26,13 @@
     &--xs     { font-size: $s3; }
     &--xxs    { font-size: $s2; }
     &--xxxs   { font-size: $s1; }
+  }
+  // title used in competition page banner
+  &--competition {
+    font-size: $s6;
+    @include bp($sm){ font-size: $s7; }
+    @include bp($lg){ font-size: $s8; }
+    @include bp($xl){ font-size: $s9; }
   }
 }
 
@@ -81,14 +86,14 @@
   line-height: 1;
   @include font-smoothing;
   font-weight: 700;
-  font-size: $s9;
-  &--overview { font-size: $s10; }
-  @include bp($md){
-    font-size: $s10;
-    &--overview { font-size: $s11; }
-  }
-  @include bp($xl){
-    font-size: $s11;
-    &--overview { font-size: $s13; }
+  font-size: $s7;
+  @include bp($md){ font-size: $s8; }
+  @include bp($md){ font-size: $s9; }
+  @include bp($xl){ font-size: $s11; }
+  &--overview {
+    font-size: $s9;
+    @include bp($sm){ font-size: $s10; }
+    @include bp($md){ font-size: $s11; }
+    @include bp($lg){ font-size: $s13; }
   }
 }
