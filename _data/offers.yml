@@ -1,69 +1,69 @@
-- title: Hallmark Hotel Wrexham Llyndir Hall
-  location: Wrexham, Wales
-  description: Escape to a Welsh country hotel near Chester and Wrexham
-  price: 40
-  price-description: based on 2 people per room per night
-  saved: 41
-  expires: 2019/06/11
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/87145/ec2c8ffe_2abb_4493_92b9_5f34e9eae413.jpg?auto=format,compress
-  link: https://www.secretescapes.com/hallmark-hotel-wrexham-llyndir-hall-wrexham-wales/sale
-
-- title: The Quay Hotel & Spa
-  location: Conwy, Wales
-  description: Wind down at a North Wales spa hotel with an acclaimed restaurant
-  price: 50
-  price-description: based on 2 people per room per night
-  saved: 46
-  expires: 2019/06/11
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89811/a0e505cd_e075_4346_a568_63ef7f2bb207.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-quay-hotel-and-spa-conwy-wales/sale
-
-- title: Llangoed Hall
-  location: Wye Valley, Wales
-  description: Get some R&R at an award-winning Welsh retreat in the Wye Valley
-  price: 58
-  price-description: based on 2 people per room per night
-  saved: 41
-  expires: 2019/06/11
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/20973/c6537d7b_2307_443b_bb6a_556694d10c4e.jpg?auto=format,compress
-  link: https://www.secretescapes.com/llangoed-hall-wye-valley-wales/sale
-
-- title: Tre-Ysgawen Hall Country House Hotel & Spa
-  location: Anglesey, Wales
-  description: A stately country stay on the Welsh island of Anglesey
-  price: 62
-  price-description: based on 2 people per room per night
-  saved: 52
-  expires: 2019/06/11
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/51530/d439c637_1fee_40b5_9353_e61b8317608b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/tre-ysgawen-hall-country-house-hotel-and-spa-anglesey-wales/sale
-
-- title: Grove of Narberth
-  location: Pembrokeshire, Wales
-  description: A luxe hotel with an acclaimed restaurant in rural Wales
-  price: 80
-  price-description: based on 2 people per room per night
-  saved: 42
+- title: Tyddyn Llan
+  location: Denbighshire, North Wales
+  description: See beautiful North Wales from this hotel with Michelin-starred dining
+  price: 118
+  price-description: Based on 2 people per room per night
+  saved: 36
   expires: 2019/06/18
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/69121/ac721a4e_31f8_4500_82b0_36a1b1e2b5b6.jpg?auto=format,compress
-  link: https://www.secretescapes.com/grove-of-narberth-pembrokeshire-wales-uk/sale
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/53404/2c28af39_cfbe_4cb8_b3f4_30417c237b11.jpg?auto=format,compress
+  link: https://www.secretescapes.com/tyddyn-llan-denbighshire-north-wales/sale
 
 - title: Best Western Diplomat Hotel & Spa
   location: Llanelli, Wales
   description: Rest up at a peaceful 19th-century spa hotel in Wales
   price: 32
-  price-description: based on 2 people per room per night
-  saved: 53
+  price-description: Based on 2 people per room per night
+  saved: 46
   expires: 2019/06/18
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/95764/b94c0ef3_ab75_4261_ad8e_3808ea7bd3e6.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/95764/6fdd1b16_bbb5_4929_b266_b56ad8deb539.jpg?auto=format,compress
   link: https://www.secretescapes.com/best-western-diplomat-hotel-and-spa-llanelli-wales/sale
 
-- title: Tyddyn Llan
-  location: Denbighshire, North Wales
-  description: See beautiful North Wales from this hotel with Michelin-starred dining
-  price: 118
-  price-description: based on 2 people per room per night
-  saved: 36
+- title: Grove of Narberth
+  location: Pembrokeshire, Wales
+  description: A luxe hotel with an acclaimed restaurant in rural Wales
+  price: 80
+  price-description: Based on 2 people per room per night
+  saved: 42
   expires: 2019/06/18
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89193/31fd874e_1a44_4264_ad12_4b5cdf5703be.jpg?auto=format,compress
-  link: https://www.secretescapes.com/tyddyn-llan-denbighshire-north-wales/sale
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/69121/ac721a4e_31f8_4500_82b0_36a1b1e2b5b6.jpg?auto=format,compress
+  link: https://www.secretescapes.com/grove-of-narberth-pembrokeshire-wales-uk/sale
+
+- title: Tre-Ysgawen Hall Country House Hotel & Spa
+  location: Anglesey, Wales
+  description: A stately country stay on the Welsh island of Anglesey
+  price: 62
+  price-description: Based on 2 people per room per night
+  saved: 52
+  expires: 2019/06/18
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/51530/0b3ad77f_2558_4264_a2bf_233bfee332a5.jpg?auto=format,compress
+  link: https://www.secretescapes.com/tre-ysgawen-hall-country-house-hotel-and-spa-anglesey-wales/sale
+
+- title: Llangoed Hall
+  location: Wye Valley, Wales
+  description: Get some R&R at an award-winning Welsh retreat in the Wye Valley
+  price: 58
+  price-description: Based on 2 people per room per night
+  saved: 41
+  expires: 2019/06/18
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/20973/c6537d7b_2307_443b_bb6a_556694d10c4e.jpg?auto=format,compress
+  link: https://www.secretescapes.com/llangoed-hall-wye-valley-wales/sale
+
+- title: The Quay Hotel & Spa
+  location: Conwy, Wales
+  description: Wind down at a North Wales spa hotel with an acclaimed restaurant
+  price: 50
+  price-description: Based on 2 people per room per night
+  saved: 46
+  expires: 2019/06/18
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89811/a0e505cd_e075_4346_a568_63ef7f2bb207.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-quay-hotel-and-spa-conwy-wales/sale
+
+- title: Hallmark Hotel Wrexham Llyndir Hall
+  location: Wrexham, Wales
+  description: Escape to a Welsh country hotel near Chester and Wrexham
+  price: 40
+  price-description: Based on 2 people per room per night
+  saved: 41
+  expires: 2019/06/18
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/87145/ec2c8ffe_2abb_4493_92b9_5f34e9eae413.jpg?auto=format,compress
+  link: https://www.secretescapes.com/hallmark-hotel-wrexham-llyndir-hall-wrexham-wales/sale
