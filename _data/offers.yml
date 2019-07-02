@@ -1,13 +1,3 @@
-- title: The Quay Hotel & Spa
-  location: Conwy, Wales
-  description: Wind down at a North Wales spa hotel with an acclaimed restaurant
-  price: 50
-  price-description: Based on 2 people per room per night
-  saved: 46
-  expires: 2019/06/28
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/36971/2579490b_3d32_4fb5_bc61_5152d650f6ee.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-quay-hotel-and-spa-conwy-wales/sale
-
 - title: Tre-Ysgawen Hall Country House Hotel & Spa
   location: Anglesey, Wales
   description: A stately country stay on the Welsh island of Anglesey
@@ -15,7 +5,7 @@
   price-description: Based on 2 people per room per night
   saved: 52
   expires: 2019/07/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/51530/0b3ad77f_2558_4264_a2bf_233bfee332a5.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/51530/24e81d6a_5cf9_4068_ba49_6717f5b21cd6.jpg?auto=format,compress
   link: https://www.secretescapes.com/tre-ysgawen-hall-country-house-hotel-and-spa-anglesey-wales/sale
 
 - title: Best Western Diplomat Hotel & Spa
@@ -57,3 +47,23 @@
   expires: 2019/07/02
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/76324/684b320f_4658_404c_ae4f_0f1afc2bdcdc.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-mulberry-inn-denbighshire-wales-uk/sale
+
+- title: Clayton Hotel Cardiff
+  location: Cardiff, Wales
+  description: A contemporary central Cardiff stay with city views
+  price: 34
+  price-description: Based on 2 people per room per night
+  saved: 49
+  expires: 2019/07/09
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/57669/e678a114_1893_4d61_8aeb_fdf638d43424.jpg?auto=format,compress
+  link: https://www.secretescapes.com/clayton-hotel-cardiff-cardiff-wales/sale
+
+- title: Caer Rhun Hall
+  location: Conwy, Wales
+  description: Rest in a Grade II-listed mansion hotel in the Conwy Valley
+  price: 54
+  price-description: Based on 2 people per room per night
+  saved: 39
+  expires: 2019/07/09
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/81720/3148212e_2243_46e4_a8ff_38d28dc7726a.jpg?auto=format,compress
+  link: https://www.secretescapes.com/caer-rhun-hall-conwy-wales/sale
