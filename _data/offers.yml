@@ -1,21 +1,11 @@
-- title: Tre-Ysgawen Hall Country House Hotel & Spa
-  location: Anglesey, Wales
-  description: A stately country stay on the Welsh island of Anglesey
-  price: 62
-  price-description: Based on 2 people per room per night
-  saved: 52
-  expires: 2019/07/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/51530/24e81d6a_5cf9_4068_ba49_6717f5b21cd6.jpg?auto=format,compress
-  link: https://www.secretescapes.com/tre-ysgawen-hall-country-house-hotel-and-spa-anglesey-wales/sale
-
 - title: Best Western Diplomat Hotel & Spa
   location: Llanelli, Wales
   description: Rest up at a peaceful 19th-century spa hotel in Wales
   price: 32
   price-description: Based on 2 people per room per night
   saved: 46
-  expires: 2019/07/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/95764/b94c0ef3_ab75_4261_ad8e_3808ea7bd3e6.jpg?auto=format,compress
+  expires: 2019/07/09
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/95764/6fdd1b16_bbb5_4929_b266_b56ad8deb539.jpg?auto=format,compress
   link: https://www.secretescapes.com/best-western-diplomat-hotel-and-spa-llanelli-wales/sale
 
 - title: Tyddyn Llan
@@ -24,8 +14,8 @@
   price: 118
   price-description: Based on 2 people per room per night
   saved: 36
-  expires: 2019/07/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89193/31fd874e_1a44_4264_ad12_4b5cdf5703be.jpg?auto=format,compress
+  expires: 2019/07/09
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/53404/2c28af39_cfbe_4cb8_b3f4_30417c237b11.jpg?auto=format,compress
   link: https://www.secretescapes.com/tyddyn-llan-denbighshire-north-wales/sale
 
 - title: Lake Country House Hotel & Spa
@@ -34,7 +24,7 @@
   price: 54
   price-description: Based on 2 people per room per night
   saved: 49
-  expires: 2019/07/02
+  expires: 2019/07/09
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/54052/6f2e8c57_2f09_4130_89ba_53fcc8c0f30b.jpg?auto=format,compress
   link: https://www.secretescapes.com/lake-country-house-hotel-and-spa-powys-wales/sale
 
@@ -44,7 +34,7 @@
   price: 40
   price-description: Based on 2 people per room per night
   saved: 34
-  expires: 2019/07/02
+  expires: 2019/07/09
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/76324/684b320f_4658_404c_ae4f_0f1afc2bdcdc.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-mulberry-inn-denbighshire-wales-uk/sale
 
@@ -55,7 +45,7 @@
   price-description: Based on 2 people per room per night
   saved: 49
   expires: 2019/07/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/57669/e678a114_1893_4d61_8aeb_fdf638d43424.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/57669/4e3cd33a_e069_4ea6_a7ee_2306dfd4f8ba.jpg?auto=format,compress
   link: https://www.secretescapes.com/clayton-hotel-cardiff-cardiff-wales/sale
 
 - title: Caer Rhun Hall
