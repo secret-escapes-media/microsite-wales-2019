@@ -1,17 +1,16 @@
-var gulp         = require('gulp');
-var path         = require('path');
-var del          = require('del');
-var cp           = require('child_process');
-var browserSync  = require('browser-sync');
-var watch        = require('gulp-watch');
-var sass         = require('gulp-sass');
-var sourcemaps   = require('gulp-sourcemaps');
-var autoprefix   = require('gulp-autoprefixer');
-var cssmin       = require('gulp-cssmin');
-var concat       = require('gulp-concat');
-var uglify       = require('gulp-uglify');
-var image        = require('gulp-image');
-var htmlmin      = require('gulp-htmlmin');
+var gulp = require('gulp');
+var path = require('path');
+var del = require('del');
+var cp = require('child_process');
+var browserSync = require('browser-sync');
+var sass = require('gulp-sass');
+var sourcemaps = require('gulp-sourcemaps');
+var autoprefix = require('gulp-autoprefixer');
+var cssmin = require('gulp-cssmin');
+var concat = require('gulp-concat');
+var uglify = require('gulp-uglify');
+var image = require('gulp-image');
+var htmlmin = require('gulp-htmlmin');
 
 
 /////////////////////////////////////////////////////////////////////  utilities
@@ -45,35 +44,35 @@ function browserSyncReload(done) {
 
 // build the jekyll site
 function buildJekyll(done) {
-  return cp.spawn('jekyll', ['build'], {stdio: 'inherit'})
-  .on('close', done);
+  return cp.spawn('jekyll', ['build'], { stdio: 'inherit' })
+    .on('close', done);
 }
 
 // build for sass
 function buildSass() {
   return gulp.src('./_assets/sass/**/*.scss')
-  .pipe(sourcemaps.init())
-  .pipe(sass().on('error', sass.logError))
-  .pipe(sourcemaps.init())
-  .pipe(sourcemaps.write('.'))
-  .pipe(gulp.dest('./_site/_assets/css/'))
-  .pipe(browserSync.reload({
-    stream: true
-  }));
+    .pipe(sourcemaps.init())
+    .pipe(sass().on('error', sass.logError))
+    .pipe(sourcemaps.init())
+    .pipe(sourcemaps.write('.'))
+    .pipe(gulp.dest('./_site/_assets/css/'))
+    .pipe(browserSync.reload({
+      stream: true
+    }));
 }
 
 // build for image files
 function buildImages() {
   return gulp.src('./_assets/img/**/*.*')
-  .pipe(gulp.dest('./_site/_assets/img/'));
+    .pipe(gulp.dest('./_site/_assets/img/'));
 }
 
 // build for main js file
 function buildJsMain(cb) {
   return gulp.src([
 
-  //  JS MAIN FILE BUILD
-  // --------------------
+    //  JS MAIN FILE BUILD
+    // --------------------
 
     // plugins
     './node_modules/jquery/dist/jquery.min.js',
@@ -101,20 +100,20 @@ function buildJsMain(cb) {
     // end custom js
 
   ])
-  .pipe(concat('main.js'))
-  .pipe(gulp.dest('./_site/_assets/js/'))
-  .pipe(browserSync.reload({
-    stream: true
-  }));
+    .pipe(concat('main.js'))
+    .pipe(gulp.dest('./_site/_assets/js/'))
+    .pipe(browserSync.reload({
+      stream: true
+    }));
 }
 
 // build for other js files - excludes main and files in sub folders
 function buildJs(cb) {
-  return gulp.src(['./_assets/js/*.js','!./_assets/js/main.js'])
-  .pipe(gulp.dest('./_site/_assets/js/'))
-  .pipe(browserSync.reload({
-    stream: true
-  }));
+  return gulp.src(['./_assets/js/*.js', '!./_assets/js/main.js'])
+    .pipe(gulp.dest('./_site/_assets/js/'))
+    .pipe(browserSync.reload({
+      stream: true
+    }));
 }
 
 
@@ -161,36 +160,36 @@ function cleanSass() {
 // compress sass files for live
 function compressSass() {
   return gulp.src('./_site/_assets/css/**/*.css')
-  .pipe(autoprefix({
+    .pipe(autoprefix({
       browsers: ['last 3 versions', 'iOS 7'],
       cascade: false
     }))
-  .pipe(cssmin())
-  .pipe(gulp.dest('./_site/_assets/css'));
+    .pipe(cssmin())
+    .pipe(gulp.dest('./_site/_assets/css'));
 }
 
 // compress js files for live
 function compressJs() {
   return gulp.src('./_site/_assets/js/**/*.js')
-  .pipe(uglify())
-  .pipe(gulp.dest('./_site/_assets/js'));
+    .pipe(uglify())
+    .pipe(gulp.dest('./_site/_assets/js'));
 }
 
 // compress images files for live
 function compressImages() {
   return gulp.src('./_site/_assets/img/**/*')
-  .pipe(image())
-  .pipe(gulp.dest('./_site/_assets/img'));
+    .pipe(image())
+    .pipe(gulp.dest('./_site/_assets/img'));
 }
 
 // compress html files for live
 function compressHtml() {
   return gulp.src('./_site/**/*.html')
-  .pipe(htmlmin({
+    .pipe(htmlmin({
       collapseWhitespace: true,
       removeComments: true
     }))
-  .pipe(gulp.dest('./_site'));
+    .pipe(gulp.dest('./_site'));
 }
 
 
