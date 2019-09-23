@@ -1,1 +1,23 @@
 // general styles for the project that wouldn't be a reuseable component
+
+// banner background images
+.overview .banner__bg {
+  background-image: url('../img/content/overview/bg-mobile.jpg');
+  @include bp($xxl) { background-image: url('../img/content/overview/bg.jpg'); }
+}
+.discover .banner__bg {
+  background-image: url('../img/content/discover/bg-mobile.jpg');
+  @include bp($xxl) { background-image: url('../img/content/discover/bg.jpg'); }
+}
+.experience .banner__bg {
+  background-image: url('../img/content/experience/bg-mobile.jpg');
+  @include bp($xxl) { background-image: url('../img/content/experience/bg.jpg'); }
+}
+.offers .banner__bg {
+  background-image: url('../img/content/offers/bg-mobile.jpg');
+  @include bp($xxl) { background-image: url('../img/content/offers/bg.jpg'); }
+}
+.competition .banner__bg {
+  background-image: url('../img/content/competition/bg-mobile.jpg');
+  @include bp($xxl) { background-image: url('../img/content/competition/bg.jpg'); }
+}

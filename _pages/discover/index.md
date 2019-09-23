@@ -8,8 +8,8 @@ intro: Discover your destination here. From the new Wales Way, a trio of touring
 
 groups:
 
-  - id: big-trips
-    title: Big Trips
+  - id: road-trips
+    title: Road Trips
     pois:
       - id: the-north-wales-way
         title: The North Wales Way
@@ -21,17 +21,16 @@ groups:
         title: The Coastal Way
         description: Delight in the stunning Welsh coast, a classic draw for visitors spanning centuries. From Llŷn to Pembrokeshire, you’ll find picturesque seaside towns, ruined castles, and sublime beaches interrupted by dramatic cliffs. Incredible hikes await, with seaside hubs like Aberystwyth, Abarearon and iconic Portmeirion making great bases for exploring this wild coastline.
 
-  - id: little-trips
-    title: Little Trips
+  - id: landscape-teasers
+    title: Landscape Teasers
     pois:
       - id: island-hop
         title: Island Hop
         description: Head out to sea and explore serene, isolated crags, that jut out of the Irish and Celtic seas. In the south, spot puffins on Skomer island, or purchase lavender and shortbread made by the monks at the Cistercian Monastery on idyllic Caldey. The largest island lies north. Anglesey offers a host of activities, framed by characterful harbour towns and pretty coastal walks.
-        image-credit: true
-      - id: ceredigion-heritage-coast
-        title: Ceredigion Heritage Coast
-        description: 22 miles of unspoilt coastline is ready to be explored, along a beautiful stretch of mid-Wales. The designation ‘heritage coast’ marks and protects the coves and beaches, recognising their untouched qualities and conserving them. Walking trails tie the whole stretch together, with seaside towns like Abaereron, Aberystwyth and Cardigan making great stop-offs as you explore this beautiful coast.
-      - id: gower-peninsula
-        title: Gower Peninsula
-        description: The UK’s first ever Area Of Outstanding National Beauty certainly lives up to the moniker, with idyllic coastal walks and gorgeous beaches. The waves make it a surfer paradise, the cliffs attract coasteering, and humble walkers are rewarded with exquisite scenery. Gower is a truly beautiful place to escape to, an easy rival to neighbouring Pembrokeshire.
+      - id: waterfall-country
+        title: Waterfall Country
+        description: There are some truly spectacular waterfalls in the Vale of Neath. The Hollywood starlet is Henrhyd Falls, as featured in the film Batman – yet the heart of this fascinating spot lies further east. Try the Four Falls Walk to see the best of the Vale of Neath. From the dramatic Sgwd Clun-Gwyn that cascades from one tier to the next, to the spellbinding Sgwd yr Eira curtain where you can actually walk behind the falls, Waterfall Country is a truly magical place that comes alive in autumn.
+      - id: snowdonia-lakes
+        title: Snowdonia Lakes
+        description: This dramatic land of piercing peaks and rugged valleys sports a mesmerizing collection of glistening lakes. Explore the golden glacial valley of Ogwen, or take the Miner’s Track that reaches the dizzying heights of Snowdon to pass Llyn Llydaw – breathtaking views await. The most famous lake in the region has to be Bala, the largest in Wales. Take a canoe to the water and glide along its serene waters. Nearby you’ll also find the highest waterfall in Wales, Pistyll Rhaeadr, with Lake Vyrnwy a little further on.
 ---
