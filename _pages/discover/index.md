@@ -4,7 +4,7 @@ id: discover
 title: Discover
 nav: true
 nav-order: 2
-intro: Discover your destination here. From the new Wales Way, a trio of touring routes that takes you through the most diverse and beautiful parts of this land, to the lesser-known destinations that promise to show you the best of Wales, plan your trip here.
+intro: Discover your destination here. From the Wales Way, a trio of touring routes that takes you through the most diverse and beautiful parts of this land, to the lesser-known destinations that promise to show you the best of Wales, plan your trip here.
 
 groups:
 
