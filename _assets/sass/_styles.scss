@@ -17,7 +17,7 @@
   background-image: url('../img/content/offers/bg-mobile.jpg');
   @include bp($xxl) { background-image: url('../img/content/offers/bg.jpg'); }
 }
-.competition .banner__bg {
-  background-image: url('../img/content/competition/bg-mobile.jpg');
-  @include bp($xxl) { background-image: url('../img/content/competition/bg.jpg'); }
-}
+// .competition .banner__bg {
+//   background-image: url('../img/content/competition/bg-mobile.jpg');
+//   @include bp($xxl) { background-image: url('../img/content/competition/bg.jpg'); }
+// }

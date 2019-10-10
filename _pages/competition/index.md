@@ -1,7 +1,7 @@
 ---
 layout: competition
 id: competition
-nav: true
+nav: false
 nav-order: 5
 
 title: Compet&shy;ition
