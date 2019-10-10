@@ -1,59 +1,119 @@
-- title: Best Western Diplomat Hotel & Spa
-  location: Llanelli, Wales
-  description: Rest up at a peaceful 19th-century spa hotel in Wales
-  price: 32
-  price-description: Based on 2 people per room per night
-  saved: 46
-  expires: 2019/07/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/95764/6fdd1b16_bbb5_4929_b266_b56ad8deb539.jpg?auto=format,compress
-  link: https://www.secretescapes.com/best-western-diplomat-hotel-and-spa-llanelli-wales/sale
-
-- title: Tyddyn Llan
-  location: Denbighshire, North Wales
-  description: See beautiful North Wales from this hotel with Michelin-starred dining
-  price: 118
-  price-description: Based on 2 people per room per night
-  saved: 36
-  expires: 2019/07/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/53404/2c28af39_cfbe_4cb8_b3f4_30417c237b11.jpg?auto=format,compress
-  link: https://www.secretescapes.com/tyddyn-llan-denbighshire-north-wales/sale
-
 - title: Lake Country House Hotel & Spa
   location: Powys, Wales
-  description: A serene stay at an award-winning Welsh country hotel in Powys
-  price: 54
-  price-description: Based on 2 people per room per night
+  description: Rural relaxation at a Welsh country hotel in Powys
+  price: 109
+  price-description: per room per night
   saved: 49
-  expires: 2019/07/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/54052/6f2e8c57_2f09_4130_89ba_53fcc8c0f30b.jpg?auto=format,compress
+  expires: 2019/10/22
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/71893/6f0e4ed5_8edb_4e35_95f1_9c1a8006e3e9.jpg?auto=format,compress
   link: https://www.secretescapes.com/lake-country-house-hotel-and-spa-powys-wales/sale
 
-- title: The Mulberry Inn
-  location: Denbighshire, Wales
-  description: Hide away at a tranquil retreat in the Welsh countryside
-  price: 40
-  price-description: Based on 2 people per room per night
-  saved: 34
-  expires: 2019/07/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/76324/684b320f_4658_404c_ae4f_0f1afc2bdcdc.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-mulberry-inn-denbighshire-wales-uk/sale
+- title: Holiday Inn Cardiff City Centre
+  location: Cardiff, Wales
+  description: Modern comforts at a central Cardiff hotel
+  price: 69
+  price-description: per room per night
+  saved: 41
+  expires: 2019/10/22
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/49881/9ae93b06_1835_482a_b61e_c2d3f70f4056.jpg?auto=format,compress
+  link: https://www.secretescapes.com/holiday-inn-cardiff-city-centre-cardiff-wales/sale
+
+- title: The Quay Hotel & Spa
+  location: Conwy, Wales
+  description: North Wales spa hotel AA Rosette dining
+  price: 99
+  price-description: per room per night
+  saved: 46
+  expires: 2019/10/22
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/36971/2579490b_3d32_4fb5_bc61_5152d650f6ee.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-quay-hotel-and-spa-conwy-wales/sale
+
+- title: St George's Hotel
+  location: Llandudno, Wales
+  description: Award-winning seafront stay in Wales
+  price: 80
+  price-description: per room per night
+  saved: 57
+  expires: 2019/10/15
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101465/9b8f4c0d_d325_4f8f_b2e9_9ea980f0d50d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/st-georges-hotel-llandudno-wales/sale
 
 - title: Clayton Hotel Cardiff
   location: Cardiff, Wales
-  description: A contemporary central Cardiff stay with city views
-  price: 34
-  price-description: Based on 2 people per room per night
+  description: Contemporary central Cardiff stay with city views
+  price: 79
+  price-description: per room per night
   saved: 49
-  expires: 2019/07/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/57669/4e3cd33a_e069_4ea6_a7ee_2306dfd4f8ba.jpg?auto=format,compress
+  expires: 2019/10/15
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89096/3d3f44eb_f9ff_4055_8f39_7c8d2fd2b9bc.jpg?auto=format,compress
   link: https://www.secretescapes.com/clayton-hotel-cardiff-cardiff-wales/sale
 
-- title: Caer Rhun Hall
-  location: Conwy, Wales
-  description: Rest in a Grade II-listed mansion hotel in the Conwy Valley
-  price: 54
-  price-description: Based on 2 people per room per night
-  saved: 39
-  expires: 2019/07/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/81720/3148212e_2243_46e4_a8ff_38d28dc7726a.jpg?auto=format,compress
-  link: https://www.secretescapes.com/caer-rhun-hall-conwy-wales/sale
+- title: Tre-Ysgawen Hall Country House Hotel & Spa
+  location: Anglesey, Wales
+  description: A stately country stay on the Welsh island of Anglesey
+  price: 125
+  price-description: per room per night
+  saved: 55
+  expires: 2019/10/22
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/51530/0b3ad77f_2558_4264_a2bf_233bfee332a5.jpg?auto=format,compress
+  link: https://www.secretescapes.com/tre-ysgawen-hall-country-house-hotel-and-spa-anglesey-wales-uk/sale
+
+- title: Best Western Lamphey Court Hotel & Spa
+  location: Pembrokeshire, Wales
+  description: Period Welsh pad set near the sublime Pembrokeshire coastline
+  price: 65
+  price-description: per room per night
+  saved: 41
+  expires: 2019/10/15
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/45851/9a88fe74_95e7_4607_8380_d113be51e9fd.jpg?auto=format,compress
+  link: https://www.secretescapes.com/best-western-lamphey-court-hotel-and-spa-pembrokeshire-wales/sale
+
+- title: Royal Victoria Hotel Snowdonia
+  location: Llanberis, Wales
+  description: Discover Snowdonia from a lakeside hotel in Llanberis
+  price: 70
+  price-description: per room per night
+  saved: 50
+  expires: 2019/10/15
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89032/e863fcfa_73d2_47a0_9756_f93f639831f2.jpg?auto=format,compress
+  link: https://www.secretescapes.com/royal-victoria-hotel-snowdonia-llanberis-wales/sale
+
+- title: Bodelwyddan Castle Hotel
+  location: Bodelwyddan, North Wales
+  description: Warner Leisure hotel in a stunning Welsh castle
+  price: 96
+  price-description: per room per night
+  saved: 20
+  expires: 2019/10/22
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102669/849b09ba_a111_45e7_8070_25eb84e52433.jpg?auto=format,compress
+  link: https://www.secretescapes.com/bodelwyddan-castle-hote-bodelwyddan-wales/sale
+
+- title: The Swan at Hay Hotel
+  location: Hay-on-Wye, Wales
+  description: Beautifully restored Grade II-listed boutique in Hay-on-Wye
+  price: 80
+  price-description: per room per night
+  saved: 43
+  expires: 2019/10/22
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/55253/da68ec9c_4f08_4223_b188_267ea0f6a533.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-swan-at-hay-hotel-hay-on-wye-wales/sale
+
+- title: Seiont Manor
+  location: Snowdonia, Wales
+  description: Beautiful manor in Mount Snowdon's foothills
+  price: 100
+  price-description: per room per night
+  saved: 53
+  expires: 2019/10/22
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/87378/1a54c350_2ffb_4f47_beed_80d70f8c73be.jpg?auto=format,compress
+  link: https://www.secretescapes.com/seiont-manor-snowdonia-wales/sale
+
+- title: King's Head Inn
+  location: Gower Peninsula, Wales
+  description: A historic, Welsh inn by the beach on the Gower Peninsula
+  price: 69
+  price-description: per room per night
+  saved: 51
+  expires: 2019/10/22
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/43619/61674174_8c29_43e3_ab46_a4773143bbaf.jpg?auto=format,compress
+  link: https://www.secretescapes.com/kings-head-inn-gower-peninsula-wales/sale
