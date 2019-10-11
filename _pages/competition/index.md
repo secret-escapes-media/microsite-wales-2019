@@ -1,24 +1,21 @@
 ---
 layout: competition
 id: competition
-nav: false
+nav: true
 nav-order: 5
 
 title: Compet&shy;ition
 long-title: Win your very own boutique escape in Wales
-intro: Brought to you by Boutique Retreats, enjoy a whole week’s stay at the rustic and luxurious Royce Barn. Set within charming Monmouth, it’s a perfect bolthole from which to discover south Wales and beyond...
+intro: Win a gorgeous stay in the Vale, in a luxurious manor house retreat. Spend two nights indulging in five-star, boutique pampering, before exploring the Welsh countryside from your country bolthole.
 enter-cta: Enter Now
 
 features:
-  - id: boutique-retreats
-    title: About Boutique Retreats
-    description: From raising the flag on your own private island and sailing a boat to your cottage, to watching the stars over the sea from your hot tub, Boutique Retreats specialise in unique, stylish properties that celebrate their surrounds whilst embracing luxurious living.
-  - id: royce-barn
-    title: About Royce Barn
-    description: Tucked away near the wonderful Welsh town of Monmouth and bordering the Rolls family estate, this stunning 17th century barn conversion for six lucky people and up to two dogs comes complete with a hot tub, natural swimming pool, Shepherd's Hut and sauna. With breathtaking views over the Welsh hills and with beautiful gardens, it’s a wonderful retreat for a holiday.
-  - id: voucher
-    title: Choose your experience
-    description: To help you get the best out of your escape, we’re also throwing in a £250 voucher for Virgin Experience Days – choose one big experience, or splurge on a collection of moments to share with your loved one. From helicopter tours to foraging experiences, choose your adventure in Wales.
+  - id: stay
+    title: The Stay
+    description: You’ll spend two nights at the stylish Gileston Manor, a historic Grade II-listed property set in beautiful gardened grounds. Staying in the Apple Store, your suite features a mezzanine with roll-top bath, king-size bed, a kitchen and dining and seating areas. The rustic-chic aesthetic perfectly suits a break framed by outdoor adventures, with a touch of irresistible luxury for you and a special someone.
+  - id: the-vale
+    title: The Vale
+    description: The Vale of Glamorgan is a rural idyll in south Wales. Magnificent castles and pretty villages rub shoulders with classic seaside towns and nature reserves. Don’t miss the beautifully historic village of Llantwit Major, the atmospheric Norman ruins of Coity and Newcastle castles, nor the choice of delightful beaches at Porthcawl.
 
 competition-form:
   id: comp
