@@ -4,7 +4,7 @@
   price: 109
   price-description: per room per night
   saved: 49
-  expires: 2019/10/22
+  expires: 2019/10/29
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/71893/6f0e4ed5_8edb_4e35_95f1_9c1a8006e3e9.jpg?auto=format,compress
   link: https://www.secretescapes.com/lake-country-house-hotel-and-spa-powys-wales/sale
 
@@ -15,7 +15,7 @@
   price-description: per room per night
   saved: 41
   expires: 2019/10/22
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/49881/9ae93b06_1835_482a_b61e_c2d3f70f4056.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/49881/92fd114a_5cb4_4601_a8cb_3e5eff9b370a.jpg?auto=format,compress
   link: https://www.secretescapes.com/holiday-inn-cardiff-city-centre-cardiff-wales/sale
 
 - title: The Quay Hotel & Spa
@@ -28,26 +28,6 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/36971/2579490b_3d32_4fb5_bc61_5152d650f6ee.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-quay-hotel-and-spa-conwy-wales/sale
 
-- title: St George's Hotel
-  location: Llandudno, Wales
-  description: Award-winning seafront stay in Wales
-  price: 80
-  price-description: per room per night
-  saved: 57
-  expires: 2019/10/15
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101465/9b8f4c0d_d325_4f8f_b2e9_9ea980f0d50d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/st-georges-hotel-llandudno-wales/sale
-
-- title: Clayton Hotel Cardiff
-  location: Cardiff, Wales
-  description: Contemporary central Cardiff stay with city views
-  price: 79
-  price-description: per room per night
-  saved: 49
-  expires: 2019/10/15
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89096/3d3f44eb_f9ff_4055_8f39_7c8d2fd2b9bc.jpg?auto=format,compress
-  link: https://www.secretescapes.com/clayton-hotel-cardiff-cardiff-wales/sale
-
 - title: Tre-Ysgawen Hall Country House Hotel & Spa
   location: Anglesey, Wales
   description: A stately country stay on the Welsh island of Anglesey
@@ -58,34 +38,14 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/51530/0b3ad77f_2558_4264_a2bf_233bfee332a5.jpg?auto=format,compress
   link: https://www.secretescapes.com/tre-ysgawen-hall-country-house-hotel-and-spa-anglesey-wales-uk/sale
 
-- title: Best Western Lamphey Court Hotel & Spa
-  location: Pembrokeshire, Wales
-  description: Period Welsh pad set near the sublime Pembrokeshire coastline
-  price: 65
-  price-description: per room per night
-  saved: 41
-  expires: 2019/10/15
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/45851/9a88fe74_95e7_4607_8380_d113be51e9fd.jpg?auto=format,compress
-  link: https://www.secretescapes.com/best-western-lamphey-court-hotel-and-spa-pembrokeshire-wales/sale
-
-- title: Royal Victoria Hotel Snowdonia
-  location: Llanberis, Wales
-  description: Discover Snowdonia from a lakeside hotel in Llanberis
-  price: 70
-  price-description: per room per night
-  saved: 50
-  expires: 2019/10/15
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89032/e863fcfa_73d2_47a0_9756_f93f639831f2.jpg?auto=format,compress
-  link: https://www.secretescapes.com/royal-victoria-hotel-snowdonia-llanberis-wales/sale
-
 - title: Bodelwyddan Castle Hotel
   location: Bodelwyddan, North Wales
   description: Warner Leisure hotel in a stunning Welsh castle
-  price: 96
+  price: 115
   price-description: per room per night
   saved: 20
   expires: 2019/10/22
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102669/849b09ba_a111_45e7_8070_25eb84e52433.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102669/89a08565_e64f_4ba0_b580_3f30af7b1f3f.jpg?auto=format,compress
   link: https://www.secretescapes.com/bodelwyddan-castle-hote-bodelwyddan-wales/sale
 
 - title: The Swan at Hay Hotel
@@ -95,18 +55,8 @@
   price-description: per room per night
   saved: 43
   expires: 2019/10/22
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/55253/da68ec9c_4f08_4223_b188_267ea0f6a533.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/55253/fbf14bf1_8962_417e_b495_5b6bb435c97b.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-swan-at-hay-hotel-hay-on-wye-wales/sale
-
-- title: Seiont Manor
-  location: Snowdonia, Wales
-  description: Beautiful manor in Mount Snowdon's foothills
-  price: 100
-  price-description: per room per night
-  saved: 53
-  expires: 2019/10/22
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/87378/1a54c350_2ffb_4f47_beed_80d70f8c73be.jpg?auto=format,compress
-  link: https://www.secretescapes.com/seiont-manor-snowdonia-wales/sale
 
 - title: King's Head Inn
   location: Gower Peninsula, Wales
@@ -117,3 +67,33 @@
   expires: 2019/10/22
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/43619/61674174_8c29_43e3_ab46_a4773143bbaf.jpg?auto=format,compress
   link: https://www.secretescapes.com/kings-head-inn-gower-peninsula-wales/sale
+
+- title: Llangoed Hall
+  location: Wye Valley, Wales
+  description: R&R at an award-winning Welsh retreat
+  price: 109
+  price-description: per room per night
+  saved: 49
+  expires: 2019/10/29
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/20973/2fe67ea7_9831_4331_96ad_125fba1d28d4.jpg?auto=format,compress
+  link: https://www.secretescapes.com/llangoed-hall-wye-valley-wales/sale
+
+- title: Plas Dinas Country House
+  location: Caernarfon, Wales
+  description: Five-star country house stay in Snowdonia
+  price: 185
+  price-description: per room per night
+  saved: 33
+  expires: 2019/10/29
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/80241/dfe3a62b_817e_4acf_a789_b3e5f58ed643.jpg?auto=format,compress
+  link: https://www.secretescapes.com/plas-dinas-country-house-caernarfon-wales/sale
+
+- title: Craig-y-Dderwen Riverside Hotel
+  location: Snowdonia, Wales
+  description: A country house set in 16 woodland acres at the gateway to Snowdonia
+  price: 175
+  price-description: per room per night
+  saved: 32
+  expires: 2019/10/29
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103211/46d0ca2c_23ff_4481_9750_a5dca9ff6e44.jpg?auto=format,compress
+  link: https://www.secretescapes.com/craig-y-dderwen-riverside-hotel-snowdonia-wales/sale
