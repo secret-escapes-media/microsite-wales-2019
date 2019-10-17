@@ -6,7 +6,7 @@ nav-order: 5
 
 title: Compet&shy;ition
 long-title: Win your very own boutique escape in Wales
-intro: Win a gorgeous stay in the Vale, in a luxurious manor house retreat. Spend two nights indulging in five-star, boutique pampering, before exploring the Welsh countryside from your country bolthole.
+intro: Win a gorgeous stay in Wales, in a luxurious manor house retreat. Spend two nights indulging in five-star, boutique pampering, before exploring the Vale of Glamorgan from your country bolthole.
 enter-cta: Enter Now
 
 features:
@@ -20,7 +20,7 @@ features:
 competition-form:
   id: comp
   post-url: #getFormUrl
-  expiry-date: 2050-01-01
+  expiry-date: 2019-11-11
   fields:
     - id: first-name
       type: text
@@ -38,18 +38,6 @@ competition-form:
       type: text
       label: Postcode
       required: true
-    - id: wales-opt-in
-      type: radio
-      label: Would you like to receive emails from Visit Wales?
-      description: "If you agree, your information will be shared with Visit Wales and will be used in accordance with their <a href=\"https://www.visitwales.com/privacy-statement#CTMnewsletter\" class=\"link--underlined\">Newsletter Privacy notice</a>."
-      required: true
-      options:
-        - id: wales-opt-in-true
-          label: 'Yes'
-          value: 'yes'
-        - id: wales-opt-in-false
-          label: 'No'
-          value: 'no'
   submit: Submit Entry
   terms: >
     By submitting your entry, you agree to the <a href="#" class="js-open-modal link--underlined" data-open-modal="competition-terms">terms and conditions</a> of this competition
