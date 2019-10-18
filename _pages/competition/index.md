@@ -19,7 +19,7 @@ features:
 
 competition-form:
   id: comp
-  post-url: #getFormUrl
+  post-url: https://getform.io/f/a5357b34-8475-41ae-865d-594a6bd30462
   expiry-date: 2019-11-11
   fields:
     - id: first-name
