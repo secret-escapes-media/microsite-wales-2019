@@ -1,89 +1,29 @@
 - title: Lake Country House Hotel & Spa
   location: Powys, Wales
   description: Rural relaxation at a Welsh country hotel in Powys
-  price: 109
+  price: 111
   price-description: per room per night
-  saved: 49
+  saved: 48
   expires: 2019/10/29
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/71893/6f0e4ed5_8edb_4e35_95f1_9c1a8006e3e9.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/34294/8fc5efac_d91b_4202_b8fa_cffd69bf7db5.jpg?auto=format,compress
   link: https://www.secretescapes.com/lake-country-house-hotel-and-spa-powys-wales/sale
-
-- title: Holiday Inn Cardiff City Centre
-  location: Cardiff, Wales
-  description: Modern comforts at a central Cardiff hotel
-  price: 69
-  price-description: per room per night
-  saved: 41
-  expires: 2019/10/22
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/49881/92fd114a_5cb4_4601_a8cb_3e5eff9b370a.jpg?auto=format,compress
-  link: https://www.secretescapes.com/holiday-inn-cardiff-city-centre-cardiff-wales/sale
-
-- title: The Quay Hotel & Spa
-  location: Conwy, Wales
-  description: North Wales spa hotel AA Rosette dining
-  price: 99
-  price-description: per room per night
-  saved: 46
-  expires: 2019/10/22
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/36971/2579490b_3d32_4fb5_bc61_5152d650f6ee.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-quay-hotel-and-spa-conwy-wales/sale
-
-- title: Tre-Ysgawen Hall Country House Hotel & Spa
-  location: Anglesey, Wales
-  description: A stately country stay on the Welsh island of Anglesey
-  price: 125
-  price-description: per room per night
-  saved: 55
-  expires: 2019/10/22
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/51530/0b3ad77f_2558_4264_a2bf_233bfee332a5.jpg?auto=format,compress
-  link: https://www.secretescapes.com/tre-ysgawen-hall-country-house-hotel-and-spa-anglesey-wales-uk/sale
-
-- title: Bodelwyddan Castle Hotel
-  location: Bodelwyddan, North Wales
-  description: Warner Leisure hotel in a stunning Welsh castle
-  price: 115
-  price-description: per room per night
-  saved: 20
-  expires: 2019/10/22
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102669/89a08565_e64f_4ba0_b580_3f30af7b1f3f.jpg?auto=format,compress
-  link: https://www.secretescapes.com/bodelwyddan-castle-hote-bodelwyddan-wales/sale
-
-- title: The Swan at Hay Hotel
-  location: Hay-on-Wye, Wales
-  description: Beautifully restored Grade II-listed boutique in Hay-on-Wye
-  price: 80
-  price-description: per room per night
-  saved: 43
-  expires: 2019/10/22
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/55253/fbf14bf1_8962_417e_b495_5b6bb435c97b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-swan-at-hay-hotel-hay-on-wye-wales/sale
-
-- title: King's Head Inn
-  location: Gower Peninsula, Wales
-  description: A historic, Welsh inn by the beach on the Gower Peninsula
-  price: 69
-  price-description: per room per night
-  saved: 51
-  expires: 2019/10/22
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/43619/61674174_8c29_43e3_ab46_a4773143bbaf.jpg?auto=format,compress
-  link: https://www.secretescapes.com/kings-head-inn-gower-peninsula-wales/sale
 
 - title: Llangoed Hall
   location: Wye Valley, Wales
   description: R&R at an award-winning Welsh retreat
-  price: 109
+  price: 111
   price-description: per room per night
-  saved: 49
-  expires: 2019/10/29
+  saved: 48
+  expires: 2019/11/05
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/20973/2fe67ea7_9831_4331_96ad_125fba1d28d4.jpg?auto=format,compress
   link: https://www.secretescapes.com/llangoed-hall-wye-valley-wales/sale
 
 - title: Plas Dinas Country House
   location: Caernarfon, Wales
   description: Five-star country house stay in Snowdonia
-  price: 185
+  price: 189
   price-description: per room per night
-  saved: 33
+  saved: 31
   expires: 2019/10/29
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/80241/dfe3a62b_817e_4acf_a789_b3e5f58ed643.jpg?auto=format,compress
   link: https://www.secretescapes.com/plas-dinas-country-house-caernarfon-wales/sale
@@ -91,9 +31,59 @@
 - title: Craig-y-Dderwen Riverside Hotel
   location: Snowdonia, Wales
   description: A country house set in 16 woodland acres at the gateway to Snowdonia
-  price: 175
+  price: 179
   price-description: per room per night
-  saved: 32
+  saved: 30
   expires: 2019/10/29
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/103211/46d0ca2c_23ff_4481_9750_a5dca9ff6e44.jpg?auto=format,compress
   link: https://www.secretescapes.com/craig-y-dderwen-riverside-hotel-snowdonia-wales/sale
+
+- title: The Mulberry Inn
+  location: Denbighshire, Wales
+  description: Stay at a tranquil Welsh countryside retreat
+  price: 109
+  price-description: per room per night
+  saved: 27
+  expires: 2019/11/05
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/55900/eab9d44d_373b_4235_b658_62cd98fe7f0d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-mulberry-inn-denbighshire-wales-uk-sale/sale
+
+- title: Ruthin Castle Hotel & Spa
+  location: Ruthin, North Wales
+  description: Bed down within a centuries-old castle in North Wales
+  price: 89
+  price-description: per room per night
+  saved: 36
+  expires: 2019/11/05
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/70504/13671d79_7068_4cda_a1bb_2d947e206304.jpg?auto=format,compress
+  link: https://www.secretescapes.com/ruthin-castle-hotel-and-spa-ruthin-north-wales-uk-sale/sale
+
+- title: Grove of Narberth
+  location: Pembrokeshire, Wales
+  description: Luxe Wales hotel with an acclaimed restaurant
+  price: 149
+  price-description: per room per night
+  saved: 33
+  expires: 2019/11/05
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/69121/ac721a4e_31f8_4500_82b0_36a1b1e2b5b6.jpg?auto=format,compress
+  link: https://www.secretescapes.com/grove-of-narberth-pembrokeshire-wales/sale
+
+- title: Mercure Cardiff Holland House
+  location: Cardiff, Wales
+  description: Modern style in the heart of Cardiff
+  price: 59
+  price-description: per room per night
+  saved: 67
+  expires: 2019/11/12
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/86170/6964fbc5_6165_45b0_82b0_08cd457dc108.jpg?auto=format,compress
+  link: https://www.secretescapes.com/mercure-cardiff-holland-house-cardiff-wales/sale
+
+- title: Château Rhianfa
+  location: Anglesey, Wales
+  description: Highly praised Victorian château in scenic Anglesey
+  price: 127
+  price-description: per room per night
+  saved: 42
+  expires: 2019/11/12
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/42549/cd781e75_7798_4008_9576_9062f1b925db.jpg?auto=format,compress
+  link: https://www.secretescapes.com/chateau-rhianfa-anglesey-wales/sale
