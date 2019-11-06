@@ -8,35 +8,15 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/20973/2fe67ea7_9831_4331_96ad_125fba1d28d4.jpg?auto=format,compress
   link: https://www.secretescapes.com/llangoed-hall-wye-valley-wales/sale
 
-- title: The Mulberry Inn
-  location: Denbighshire, Wales
-  description: Stay at a tranquil Welsh countryside retreat
-  price: 109
-  price-description: per room per night
-  saved: 27
-  expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/55900/eab9d44d_373b_4235_b658_62cd98fe7f0d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-mulberry-inn-denbighshire-wales-uk-sale/sale
-
 - title: Ruthin Castle Hotel & Spa
   location: Ruthin, North Wales
   description: Bed down within a centuries-old castle in North Wales
   price: 89
   price-description: per room per night
   saved: 36
-  expires: 2019/11/12
+  expires: 2019/11/19
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/70504/13671d79_7068_4cda_a1bb_2d947e206304.jpg?auto=format,compress
   link: https://www.secretescapes.com/ruthin-castle-hotel-and-spa-ruthin-north-wales-uk-sale/sale
-
-- title: Grove of Narberth
-  location: Pembrokeshire, Wales
-  description: Luxe Wales hotel with an acclaimed restaurant
-  price: 149
-  price-description: per room per night
-  saved: 33
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/69121/ac721a4e_31f8_4500_82b0_36a1b1e2b5b6.jpg?auto=format,compress
-  link: https://www.secretescapes.com/grove-of-narberth-pembrokeshire-wales/sale
 
 - title: Mercure Cardiff Holland House
   location: Cardiff, Wales
@@ -44,7 +24,7 @@
   price: 59
   price-description: per room per night
   saved: 70
-  expires: 2019/11/12
+  expires: 2019/11/19
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/86170/6964fbc5_6165_45b0_82b0_08cd457dc108.jpg?auto=format,compress
   link: https://www.secretescapes.com/mercure-cardiff-holland-house-cardiff-wales/sale
 
